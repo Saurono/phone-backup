@@ -1,0 +1,4 @@
+.state.json
+*.tar
+*.tar.err
+__pycache__/
